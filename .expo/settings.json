@@ -1,0 +1,10 @@
+{
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": null,
+  "https": false,
+  "scheme": "com.bova80.mobile-interview-challenge",
+  "devClient": true
+}
